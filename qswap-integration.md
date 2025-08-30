@@ -25,3 +25,6 @@ The development and integration costs amount to approximately **1 billion QUBIC*
 
 The development and deployment of the UI are carried out by the LFG team and are privately funded. They are not part of the proposal.
 The platform qubictrade.com is a non-commercial initiative developed in collaboration with the community.
+
+## Payout Adsress
+LFGCREWZGFRGGCYEWHGZWFOMAUVCDRWVAPWMLCJMPDFDTPKYKBDHFLBFRKMO
